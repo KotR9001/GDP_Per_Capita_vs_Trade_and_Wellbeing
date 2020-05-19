@@ -26,7 +26,7 @@ We started by attempting to look at the relationship between GDP per Capita and 
 We assumed that as nations became more productive, that they would experience improvements in well-being and increased imports.
 However, we assumed that exports would go down, since nations that become more affluent would have more domestic purchasing power.
 -------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------')  
+------------------------------------------------------------------------------------------------------------------- 
 Data Merging/Cleanup Process
 -------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
@@ -42,7 +42,7 @@ Since every indicator type had the exact same rows and columns (not counting val
 We first merged the GDP per Capita file with the Life Expectancy file to form summary_df.
 After that, we merged the remaining files in a stepwise fashion into summary_df.
 -------------------------------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------------------------------')    
+-------------------------------------------------------------------------------------------------------------------    
 Data Analysis Process
 -------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
